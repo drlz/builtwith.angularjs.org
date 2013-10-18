@@ -2,6 +2,18 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Isabel the chatolic characters tree",
+      "thumb": "isabel/thumb.png",
+      "desc": "An interactive visualization for the spanish television series 'Isabel' based on the historical character Isabella I of Castile.",
+      "url": "http://lab.rtve.es/serie-isabel/personajes/",
+      "info": "https://davidruizlopez.es",
+      "submitter": "ruizfrontend",
+      "submissionDate": "2013-10-18",
+      "tags": [
+        "Production", "Visualization", "infographics", "Raphael", "SVG", "circles" 
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
